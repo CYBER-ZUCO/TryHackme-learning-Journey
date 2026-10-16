@@ -25,4 +25,18 @@ i practised commands including:
   ## - Day 4 - Virtuualisation Basics
   Date: 10 October 2026
   Today i completed the Virtualisation basic room on Tryhackme. I learned what  virtual machines are and hypervisors are and how multiple virtual machines can share physical hardware. during the practical labs, I investigated  a company email sever that was showing an error. i also created my own virtual machine called marketing-websever with 2 CPU cores, 4 GB RAM and 40 GB storage. i learned how to monitor virtual machine ,check uptime and identify resource usage. this gave me the practical experience in managing  virtual machines and troubleshooting server problems.
+
+## - Day 5 - Windows Fundamentals
+Date: 12 October 2026
+I continued learning on TryHackMeby working through Windows Fundamentals.
+I explored Windows Sever 2019 and learn how to find basic system information, including the computer name, operating system version and installing RAM.
+During the practical lab, I used a Windows Sever 2019 virtual machine.
+I identified the computer name, checked the installed RAM and found the operating system version. 
+This helped me become more familiar with Window system administration.
+
+Skills gained:
+- Windows Sever 2019 basic
+- identifying system information
+- Working with virtual machines
+- Basic Windows system administration
    
